@@ -4,9 +4,9 @@
 
 ## 演示入口
 
-- [完整工作台](./index.html)
-- [日本語旅行落地页](./landing-ja.html)
-- [English travel landing page](./landing-en.html)
+- [完整工作台](https://yolanda711.github.io/voyage-creator-workbench/)
+- [日本語旅行落地页](https://yolanda711.github.io/voyage-creator-workbench/landing-ja.html)
+- [English travel landing page](https://yolanda711.github.io/voyage-creator-workbench/landing-en.html)
 
 ## 核心设计
 
